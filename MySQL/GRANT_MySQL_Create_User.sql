@@ -1,0 +1,1 @@
+GRANT create user on <database>.<tables> to <USER> [[[with grant option]]];
