@@ -1,0 +1,4 @@
+jar -xvf root2.war
+
+
+jar -cvf root2.war *
